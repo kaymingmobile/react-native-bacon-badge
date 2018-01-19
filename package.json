@@ -1,0 +1,26 @@
+{
+  "name": "react-native-bacon-badge",
+  "version": "1.0.0",
+  "description": "react native bacon badge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaymingmobile/react-native-bacon-badge.git"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-native-elements": "^0.18.0"
+  },
+  "keywords": [
+    "react native badge"
+  ],
+  "author": "Tsao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaymingmobile/react-native-bacon-badge/issues"
+  },
+  "homepage": "https://github.com/kaymingmobile/react-native-bacon-badge#readme"
+}
